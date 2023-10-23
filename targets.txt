@@ -1,0 +1,1 @@
+#list your targets here one per line by ip. Make sure you delete this line. Remember you can also use a CIDR via a simple argument.
